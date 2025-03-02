@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioBenner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+843774d2ddd2d6293902dd5951f6cf493d17d368")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioBenner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioBenner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

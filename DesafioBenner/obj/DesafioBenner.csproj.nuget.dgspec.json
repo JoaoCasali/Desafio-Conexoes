@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\repositorios\\DesafioBenner\\DesafioBenner\\DesafioBenner.csproj": {}
+    "P:\\repositorios\\Desafio-Conexoes\\DesafioBenner\\DesafioBenner.csproj": {}
   },
   "projects": {
-    "P:\\repositorios\\DesafioBenner\\DesafioBenner\\DesafioBenner.csproj": {
+    "P:\\repositorios\\Desafio-Conexoes\\DesafioBenner\\DesafioBenner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\repositorios\\DesafioBenner\\DesafioBenner\\DesafioBenner.csproj",
+        "projectUniqueName": "P:\\repositorios\\Desafio-Conexoes\\DesafioBenner\\DesafioBenner.csproj",
         "projectName": "DesafioBenner",
-        "projectPath": "P:\\repositorios\\DesafioBenner\\DesafioBenner\\DesafioBenner.csproj",
+        "projectPath": "P:\\repositorios\\Desafio-Conexoes\\DesafioBenner\\DesafioBenner.csproj",
         "packagesPath": "C:\\Users\\joaov\\.nuget\\packages\\",
-        "outputPath": "P:\\repositorios\\DesafioBenner\\DesafioBenner\\obj\\",
+        "outputPath": "P:\\repositorios\\Desafio-Conexoes\\DesafioBenner\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "P:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
